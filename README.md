@@ -10,10 +10,15 @@ Full Stack Software Developer in the Dominican Republic.
   
 ## 🛠💻 My Skills
 • HTML
+
 • CSS
+
 • JavaScript
+
 • React
+
 • Python
+
 • My SQL
 
 And many more coming soon... 👀
