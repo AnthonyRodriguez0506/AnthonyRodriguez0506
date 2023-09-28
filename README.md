@@ -2,7 +2,7 @@
 # I'm Anthony Rodríguez
 Full Stack Software Developer in the Dominican Republic.
 
-### Hi there 👋
+### Hello World! 👋
 
 - 🔭 I'm currently working on: My web portfolio.
 - 🌱 I'm currently learning: Tailwind, JS, React and Python.
