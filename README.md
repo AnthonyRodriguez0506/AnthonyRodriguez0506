@@ -30,7 +30,7 @@ I was born in the Dominican Republic. I am a passionate Junior Full Stack Develo
 
 HTML, CSS, JavaScript, React, Python and MySQL.
 
-From an early age, I have been immersed in the world of technology and graphic design. and web development. I love creating solutions, making eye-catching designs and above all, learning new things!
+From an early age, I have been immersed in the world of technology, graphic design and web development. I love creating solutions, making eye-catching designs and above all, learning new things!
 
 
 ## 📱🔗 Social Media
