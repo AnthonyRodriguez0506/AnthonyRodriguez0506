@@ -19,7 +19,7 @@ Full Stack Software Developer in the Dominican Republic.
 
 • Python
 
-• My SQL
+• MySQL
 
 And many more coming soon... 👀
 
