@@ -5,7 +5,7 @@ Full Stack Software Developer in the Dominican Republic.
 ### Hello World! 👋
 
 - 🔭 I'm currently working on: My web portfolio.
-- 🌱 I'm currently learning: Bootstrap, JS and Python.
+- 🌱 I'm currently learning: Tailwind, JS and Python.
 - ⚡ Fun fact: I like Graphic Design.
   
 ## 🛠💻 My Skills
@@ -26,7 +26,7 @@ My name is Anthony Rodríguez and I am 17 years old.
 
 I was born in the Dominican Republic. I am a passionate Junior Full Stack Developer with a solid foundation in various web technologies, including:
 
-HTML, CSS, JavaScript, React, Python and MySQL.
+HTML, CSS, JavaScript, Python and MySQL.
 
 From an early age, I have been immersed in the world of technology, graphic design and web development. I love creating solutions, making eye-catching designs and above all, learning new things!
 
