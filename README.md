@@ -24,9 +24,7 @@ And many more coming soon... 👀
 ## 👨‍💻 🚀 About Me
 My name is Anthony Rodríguez and I am 17 years old.
 
-I was born in the Dominican Republic. I am a passionate Junior Full Stack Developer with a solid foundation in various web technologies, including:
-
-HTML, CSS, JavaScript, Python and MySQL.
+I was born in the Dominican Republic. I am a passionate Junior Full Stack Developer with a solid foundation in various web technologies.
 
 From an early age, I have been immersed in the world of technology, graphic design and web development. I love creating solutions, making eye-catching designs and above all, learning new things!
 
