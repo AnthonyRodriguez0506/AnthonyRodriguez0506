@@ -11,7 +11,7 @@ Full Stack Software Developer in the Dominican Republic.
 ## 🛠💻 My Skills
 • HTML
 
-• CSS (Tailwind)
+• CSS
 
 • JavaScript
 
