@@ -27,13 +27,6 @@ I was born in the Dominican Republic. I am a passionate Junior Full Stack Develo
 
 From an early age, I have been immersed in the world of technology, graphic design and web development. I love creating solutions, making eye-catching designs and above all, learning new things!
 
-
-## 📱🔗 Work Media
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anthony-rodriguez.vercel.app/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyrodriguez0506/)
-
-
 ## ‍💼👨‍💼Contact 
 
 To contact me, email anthonyjunior1805@gmail.com
