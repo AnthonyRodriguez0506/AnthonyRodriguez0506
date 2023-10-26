@@ -18,8 +18,6 @@ Full Stack Software Developer in the Dominican Republic.
 
 • MySQL
 
-And many more coming soon... 👀
-
 ## 👨‍💻 🚀 About Me
 My name is Anthony Rodríguez and I am 17 years old.
 
