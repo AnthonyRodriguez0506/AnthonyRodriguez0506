@@ -4,8 +4,7 @@ Full Stack Software Developer in the Dominican Republic.
 
 ### Hello World! 👋
 
-- 💡 I'm currently working on: My web portfolio.
-- 🧠👨🏻‍💻 I'm currently learning: Tailwind, JS and Python.
+- 🧠👨🏻‍💻💡 I'm currently learning: Tailwind, JS and Python.
   
 ## 🛠💻 My Skills
 
