@@ -19,6 +19,8 @@ Full Stack Software Developer in the Dominican Republic.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
 </div>
 
 <div align="left">
