@@ -27,7 +27,7 @@ Full Stack Software Developer in the Dominican Republic.
 
 
 ## 👨‍💻 🚀 About Me
-My name is Anthony Rodríguez and I am 17 years old.
+My name is Anthony Rodríguez and I am 18 years old.
 
 I was born in the Dominican Republic. I am a passionate Junior Full Stack Developer with a solid foundation in various web technologies.
 
