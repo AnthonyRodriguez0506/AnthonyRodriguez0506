@@ -8,7 +8,7 @@ Full Stack Software Developer in the Dominican Republic.
   
 ## 🛠💻 Language and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=astro,tailwind,mysql,js,python,java,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,tailwind,mysql,js,python,java&perline=3)](https://skillicons.dev)
 
 ## 🛠💻 Dev Tools
 
