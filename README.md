@@ -4,15 +4,15 @@ Full Stack Software Developer in the Dominican Republic.
 
 ### Hello World! 👋
 
-- 🧠👨🏻‍💻💡 I'm currently learning: Astro and Tailwind.
+- 🧠👨🏻‍💻💡 I'm currently learning: Astro, Tailwind.
   
 ## 🛠💻 Language and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=astro,tailwind,mysql,js,python,java&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,tailwind,mysql,python,js,java&perline=3)](https://skillicons.dev)
 
 ## 🛠💻 Dev Tools
 
-[![My Skills](https://skillicons.dev/icons?i=bash,git,yarn,nodejs,figma,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,nodejs,figma,vscode&perline=5)](https://skillicons.dev)
 
 ## 👨‍💻 🚀 About Me
 My name is Anthony Rodríguez and I am 18 years old.
