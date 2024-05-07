@@ -4,7 +4,7 @@ Full Stack Software Developer in the Dominican Republic.
 
 ### Hello World! 👋
 
-- 🧠👨🏻‍💻💡 I'm currently learning: Astro, Tailwind.
+- 🧠👨🏻‍💻💡 I'm currently learning: Astro and Tailwind.
   
 ## 🛠💻 Language and Frameworks
 
