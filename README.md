@@ -6,7 +6,7 @@ Full Stack Software Developer in the Dominican Republic.
 
 - 🧠👨🏻‍💻💡 I'm currently learning: Astro and Tailwind.
   
-## 🛠💻 Language and Frameworks
+## 🛠💻 Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=astro,tailwind,mysql,python,js,java&perline=6)](https://skillicons.dev)
 
 ## 🛠💻 Dev Tools
@@ -20,5 +20,4 @@ I was born in the Dominican Republic. I am a passionate Junior Full Stack Develo
 From an early age, I have been immersed in the world of technology, graphic design and web development. I love creating solutions, making eye-catching designs and above all, learning new things!
 
 ## ‍💼👨‍💼Contact 
-
 To contact me, email anthonyjunior1805@gmail.com
