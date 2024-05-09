@@ -12,7 +12,7 @@ Full Stack Software Developer in the Dominican Republic.
 
 ## 🛠💻 Dev Tools
 
-[![My Skills](https://skillicons.dev/icons?i=bash,git,nodejs,figma,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,vscode,nodejs,yarn,figma,&perline=3)](https://skillicons.dev)
 
 ## 👨‍💻 🚀 About Me
 My name is Anthony Rodríguez and I am 18 years old.
