@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Anthony Rodríguez, a Junior Full Stack Developer from the Dominican Republic 🏝️</h2>
+<h2 align="center">Hi 👋! My name is Anthony Rodríguez, and I'm a Full Stack Developer from DR 🏝️</h2>
 
 ###
 
