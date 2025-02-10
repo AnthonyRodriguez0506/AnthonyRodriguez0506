@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I’m 19 years old, and from a young age, I’ve developed a strong passion for technology and web application development. I have a solid foundation in various software development technologies, focusing on creating user-friendly solutions, visually appealing designs, and, above all, innovative ones.</h3>
+<h3 align="center">From a young age i’ve developed a strong passion for technology and web application development. I have a solid foundation in various software development technologies, focusing on creating user-friendly solutions, visually appealing designs, and, above all, innovative ones.</h3>
 
 <h3 align="center">I’m constantly learning and staying updated with the latest tech trends, always striving to improve my skills and deliver high-quality work.</h3>
 
