@@ -20,25 +20,25 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
 </div>
 
 ###
