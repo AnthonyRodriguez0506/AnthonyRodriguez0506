@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">MY TECH STACK 🛠💻</h1>
+<h1 align="center">Technologies & Tools 🛠💻</h1>
 
 ###
 
@@ -25,10 +25,13 @@
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
