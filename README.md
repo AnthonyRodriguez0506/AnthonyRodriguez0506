@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 My name is Anthony Rodríguez, and I'm a Backend Developer from the Dominican Republic. 🏝️</h2>
+<h2 align="center">Hi 👋 My name is Anthony Rodríguez, and I'm a Backend Developer from the DR. 🏝️</h2>
 
 ###
 
