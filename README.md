@@ -23,13 +23,11 @@ I’m passionate about Linux, DevOps practices, and automation, and I’m buildi
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="10" />
