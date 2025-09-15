@@ -31,6 +31,8 @@ I’m passionate about Linux, DevOps practices, and automation, and I’m buildi
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongo" height="60" alt="mongo logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
