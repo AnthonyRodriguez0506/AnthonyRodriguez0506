@@ -41,7 +41,6 @@ I’m passionate about Linux, DevOps practices, and automation, and I’m buildi
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
 </div>
 
 ###
