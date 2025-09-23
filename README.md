@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I’m currently learning backend development with Python and exploring tools like Node.js, PostgreSQL, and Docker.
+<h3 align="center">I’m currently learning backend development with Python and exploring tools like Django, PostgreSQL, and Docker.
 I’m passionate about Linux, DevOps practices, and automation, and I’m building projects to strengthen my skills step by step.</h3>
 
 <h3 align="center">I’m focused on growing as a backend developer, constantly learning modern technologies, and working towards delivering reliable, scalable, and high-quality solutions in the near future.</h3>
