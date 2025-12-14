@@ -3,23 +3,14 @@ Hi 👋 My name is Anthony Rodríguez,<br>
 I'm a Full Stack Developer from the Dominican Republic 🇩🇴🏝️ 
 </h2>
 
-<h3 align="center">
-I specialize in backend development using <b>Python</b> and <b>Java</b>,
-building scalable and secure systems with <b>Django</b> and <b>Spring Boot</b>.
-</h3>
+<p align="center">
+I build modern full stack applications, working across both frontend and backend to create clean user experiences and reliable systems that support real-world needs.
 
-<h3 align="center">
-I also work comfortably on the frontend with <b>JavaScript, TypeScript, HTML, CSS, and Tailwind CSS</b>,
-allowing me to deliver complete full stack applications end-to-end.
-</h3>
-
-<h3 align="center">
-I'm passionate about <b>Linux</b>, <b>DevOps practices</b>, automation, and clean architecture,
-and I continuously build projects following modern software engineering standards.
-</h3>
+I focus on writing clear, maintainable software, paying attention to structure, trade-offs, and long-term impact rather than quick fixes.
+</p>
 
 <br>
-<h1 align="center">Technologies & Tools 🛠💻</h1>
+<h1 align="center">Tech Stack 🚀</h1>
 
 <table align="center">
 <tr>
@@ -59,7 +50,7 @@ and I continuously build projects following modern software engineering standard
 </table>
 
 <br>
-<h1 align="center">DevOps & Tools ⚙️</h1>
+<h1 align="center">Development Workflow ⚙️</h1>
 
 <table align="center">
 <tr>
