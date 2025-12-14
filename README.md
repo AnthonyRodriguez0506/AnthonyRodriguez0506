@@ -3,9 +3,9 @@ Hi 👋 My name is Anthony Rodríguez,<br>
 I'm a Full Stack Developer from the Dominican Republic 🇩🇴🏝️ 
 </h1>
 
-<h4 align="center">
+<h3 align="center">
 I build modern full stack applications, working across both frontend and backend to create clean user experiences and reliable systems that support real-world needs. I focus on writing clear, maintainable software, paying attention to structure, trade-offs, and long-term impact rather than quick fixes.
-</h4>
+</h3>
 
 <br>
 <h1 align="center">My Tech Stack 🚀</h1>
