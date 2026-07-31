@@ -12,22 +12,28 @@ domain modeling, and reliable data persistence.
 
 <table align="center">
 <tr>
-<th>Backend Core</th>
+<th>Main Stack</th>
+<th>Alt Stack</th>
 <th>Infrastructure & Tooling</th>
 </tr>
 
 <tr>
-<td align="center">
-  <!-- Backend Core -->
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate" height="50" />
 
+<td align="center">
+  <!-- Main Stack -->
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate" height="50" />
+</td>
+
+<td align="center">
+  <!-- Alt Stack -->
+<img src="https://skillicons.dev/icons?i=angular,typescript,nest,prisma" height="50" />
 </td>
 
 <td align="center">
   <!-- Infrastructure & Tooling -->
 <img src="https://skillicons.dev/icons?i=linux,docker,git,postman" height="50" />
-
 </td>
+
 </tr>
 </table>
 
