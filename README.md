@@ -1,31 +1,37 @@
 <h1 align="center">
-Backend Software Engineer | Java & Spring Boot
+Backend Software Engineer | Java & Spring Boot | AWS
 </h1>
 <h3 align="center">
-I am a Backend Software Engineer specializing in Java & Spring Boot, with a secondary Full Stack track built on TypeScript, NestJS, and Angular
+I am a Backend Software Engineer specializing in Java & Spring Boot, complemented by TypeScript and Angular for frontend needs.
 <br>
 <br>
-I designing and building backend systems focused on clean architecture, domain modeling, and reliable data persistence. 
+I design and build backend systems focused on clean architecture, domain modeling, and reliable data persistence.
 </h3>
 <br>
 <h1 align="center">Technical Focus</h1>
 <table align="center">
 <tr>
-<th>Main Stack</th>
-<th>Alt Stack</th>
+<th>Backend</th>
+<th>Frontend</th>
+<th>Tooling</th>
 <th>Databases</th>
-<th>Infrastructure & Tooling</th>
+<th>Cloud</th>
 </tr>
 <tr>
 <td align="center">
   
-  <!-- Main Stack -->
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" height="50" />
+  <!-- Backend -->
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate" height="50" />
 </td>
 <td align="center">
   
-  <!-- Alt Stack -->
-<img src="https://skillicons.dev/icons?i=typescript,nestjs,angular,prisma" height="50" />
+  <!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=typescript,angular,tailwind" height="50" />
+</td>
+<td align="center">
+  
+  <!-- Tooling -->
+<img src="https://skillicons.dev/icons?i=linux,docker,git,postman" height="50" />
 </td>
 <td align="center">
   
@@ -34,9 +40,8 @@ I designing and building backend systems focused on clean architecture, domain m
 </td>
 <td align="center">
   
-  <!-- Infrastructure & Tooling -->
-<img src="https://skillicons.dev/icons?i=linux,docker,git,postman" height="50" />
+  <!-- Cloud -->
+<img src="https://skillicons.dev/icons?i=aws" height="50" />
 </td>
-
 </tr>
 </table>
